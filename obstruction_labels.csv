@@ -1,0 +1,307 @@
+File Name,Object Name,obstruction
+TV_001.png,TV,no
+TV_002.png,TV,no
+TV_003.png,TV,yes
+TV_004.png,TV,yes
+TV_005.png,TV,yes
+boiling-pot_001.png,boiling pot,no
+boiling-pot_002.png,boiling pot,yes
+boiling-pot_003.png,boiling pot,no
+boiling-pot_004.png,boiling pot,no
+boiling-pot_005.png,boiling pot,yes
+boiling-pot_006.png,boiling pot,no
+boiling-pot_007.png,boiling pot,no
+boiling-pot_008.png,boiling pot,yes
+boiling-pot_009.png,boiling pot,yes
+boiling-pot_010.png,boiling pot,no
+caution-sign_001.png,caution sign,no
+caution-sign_002.png,caution sign,no
+caution-sign_003.png,caution sign,yes
+caution-sign_004.png,caution sign,yes
+caution-sign_005.png,caution sign,yes
+caution-sign_006.png,caution sign,no
+caution-sign_007.png,caution sign,yes
+caution-sign_008.png,caution sign,no
+caution-sign_009.png,caution sign,no
+caution-sign_010.png,caution sign,yes
+caution-sign_011.png,caution sign,no
+caution-sign_012.png,caution sign,yes
+caution-sign_013.png,caution sign,yes
+caution-sign_014.png,caution sign,yes
+caution-sign_015.png,caution sign,no
+caution-sign_016.png,caution sign,no
+caution-sign_017.png,caution sign,no
+caution-sign_018.png,caution sign,no
+caution-sign_019.png,caution sign,no
+caution-sign_020.png,caution sign,yes
+caution-sign_021.png,caution sign,yes
+caution-sign_022.png,caution sign,no
+caution-sign_023.png,caution sign,no
+ceiling-fan_001.png,ceiling fan,no
+ceiling-fan_002.png,ceiling fan,no
+ceiling-fan_003.png,ceiling fan,yes
+ceiling-fan_004.png,ceiling fan,yes
+ceiling-fan_005.png,ceiling fan,no
+ceiling-fan_006.png,ceiling fan,yes
+ceiling-fan_007.png,ceiling fan,no
+ceiling-fan_008.png,ceiling fan,yes
+coffee-maker_001.png,coffee maker,yes
+coffee-maker_002.png,coffee maker,no
+coffee-maker_003.png,coffee maker,no
+coffee-maker_004.png,coffee maker,yes
+coffee-maker_005.png,coffee maker,yes
+coffee-maker_006.png,coffee maker,yes
+coffee-maker_007.png,coffee maker,yes
+coffee-maker_008.png,coffee maker,no
+coffee-maker_009.png,coffee maker,yes
+coffee-maker_010.png,coffee maker,yes
+coffee-maker_011.png,coffee maker,yes
+coffee-maker_012.png,coffee maker,yes
+coffee-maker_013.png,coffee maker,no
+coffee-maker_014.png,coffee maker,no
+electrical-box_001.png,electrical box,no
+electrical-box_002.png,electrical box,no
+electrical-box_003.png,electrical box,yes
+electrical-box_004.png,electrical box,yes
+electrical-outlet_001.png,electrical outlet,no
+electrical-outlet_002.png,electrical outlet,no
+electrical-outlet_003.png,electrical outlet,no
+electrical-outlet_004.png,electrical outlet,no
+electrical-outlet_005.png,electrical outlet,yes
+electrical-outlet_006.png,electrical outlet,yes
+electrical-outlet_007.png,electrical outlet,yes
+electrical-outlet_008.png,electrical outlet,no
+electrical-outlet_009.png,electrical outlet,yes
+electrical-outlet_010.png,electrical outlet,yes
+electrical-outlet_011.png,electrical outlet,yes
+electrical-outlet_012.png,electrical outlet,yes
+electrical-outlet_013.png,electrical outlet,no
+electrical-outlet_014.png,electrical outlet,no
+electrical-outlet_015.png,electrical outlet,no
+electrical-outlet_016.png,electrical outlet,no
+electrical-outlet_017.png,electrical outlet,no
+electrical-outlet_018.png,electrical outlet,yes
+electrical-outlet_019.png,electrical outlet,no
+electrical-outlet_020.png,electrical outlet,no
+electrical-outlet_021.png,electrical outlet,no
+electrical-outlet_022.png,electrical outlet,yes
+electrical-outlet_023.png,electrical outlet,yes
+electrical-outlet_024.png,electrical outlet,yes
+electrical-outlet_025.png,electrical outlet,no
+electrical-outlet_026.png,electrical outlet,no
+electrical-outlet_027.png,electrical outlet,no
+electrical-outlet_028.png,electrical outlet,yes
+electrical-outlet_029.png,electrical outlet,no
+electrical-pot_001.png,electrical pot,no
+electrical-pot_002.png,electrical pot,yes
+electrical-pot_003.png,electrical pot,no
+electrical-pot_004.png,electrical pot,yes
+electrical-pot_005.png,electrical pot,yes
+electrical-pot_006.png,electrical pot,yes
+electrical-pot_007.png,electrical pot,no
+electrical-pot_008.png,electrical pot,no
+electrical-pot_009.png,electrical pot,yes
+electrical-pot_010.png,electrical pot,yes
+electrical-pot_011.png,electrical pot,no
+exit-sign_001.png,exit sign,no
+exit-sign_002.png,exit sign,yes
+exit-sign_003.png,exit sign,no
+exit-sign_004.png,exit sign,no
+exit-sign_005.png,exit sign,no
+exit-sign_006.png,exit sign,yes
+exit-sign_007.png,exit sign,no
+exit-sign_008.png,exit sign,no
+exit-sign_009.png,exit sign,no
+exit-sign_010.png,exit sign,yes
+exit-sign_011.png,exit sign,no
+exit-sign_012.png,exit sign,no
+exit-sign_013.png,exit sign,no
+exit-sign_014.png,exit sign,no
+exit-sign_015.png,exit sign,yes
+exit-sign_016.png,exit sign,yes
+exit-sign_017.png,exit sign,no
+exit-sign_018.png,exit sign,no
+exit-sign_019.png,exit sign,no
+exit-sign_020.png,exit sign,yes
+fire-extinguisher_001.png,fire extinguisher,no
+fire-extinguisher_002.png,fire extinguisher,no
+fire-extinguisher_003.png,fire extinguisher,yes
+fire-extinguisher_004.png,fire extinguisher,yes
+fire-extinguisher_005.png,fire extinguisher,yes
+fire-extinguisher_006.png,fire extinguisher,no
+fire-extinguisher_007.png,fire extinguisher,yes
+fire-extinguisher_008.png,fire extinguisher,yes
+fire-extinguisher_009.png,fire extinguisher,no
+fire-extinguisher_010.png,fire extinguisher,yes
+fire-extinguisher_011.png,fire extinguisher,yes
+fire-extinguisher_012.png,fire extinguisher,no
+fire-extinguisher_013.png,fire extinguisher,no
+fire-extinguisher_014.png,fire extinguisher,no
+fire-extinguisher_015.png,fire extinguisher,no
+fire-extinguisher_016.png,fire extinguisher,yes
+fire-extinguisher_017.png,fire extinguisher,no
+fire-extinguisher_018.png,fire extinguisher,no
+fire-extinguisher_019.png,fire extinguisher,no
+fire-extinguisher_020.png,fire extinguisher,yes
+fire-extinguisher_021.png,fire extinguisher,no
+fire-extinguisher_022.png,fire extinguisher,yes
+fire-extinguisher_023.png,fire extinguisher,yes
+fire-extinguisher_024.png,fire extinguisher,yes
+fire-extinguisher_025.png,fire extinguisher,no
+fire-hydrant_001.png,fire hydrant,yes
+fire-hydrant_002.png,fire hydrant,no
+fire-hydrant_003.png,fire hydrant,no
+fire-hydrant_004.png,fire hydrant,yes
+fire-hydrant_005.png,fire hydrant,no
+fire-hydrant_006.png,fire hydrant,no
+fire-hydrant_007.png,fire hydrant,yes
+fire-hydrant_008.png,fire hydrant,yes
+fire-hydrant_009.png,fire hydrant,yes
+fire-hydrant_010.png,fire hydrant,no
+fire-hydrant_011.png,fire hydrant,yes
+fire-hydrant_012.png,fire hydrant,no
+fire-hydrant_013.png,fire hydrant,no
+fire-hydrant_014.png,fire hydrant,yes
+fire-hydrant_015.png,fire hydrant,no
+help-station_001.png,help station,no
+help-station_002.png,help station,yes
+help-station_003.png,help station,no
+help-station_004.png,help station,yes
+help-station_005.png,help station,yes
+help-station_006.png,help station,yes
+help-station_007.png,help station,yes
+help-station_008.png,help station,no
+help-station_009.png,help station,no
+help-station_010.png,help station,no
+help-station_011.png,help station,yes
+help-station_012.png,help station,no
+help-station_013.png,help station,yes
+knife_001.png,knife,no
+knife_002.png,knife,yes
+knife_003.png,knife,no
+knife_004.png,knife,yes
+knife_005.png,knife,no
+knife_006.png,knife,no
+knife_007.png,knife,yes
+knife_008.png,knife,yes
+knife_009.png,knife,no
+knife_010.png,knife,no
+knife_011.png,knife,yes
+knife_012.png,knife,no
+knife_013.png,knife,yes
+knife_014.png,knife,no
+knife_015.png,knife,yes
+knife_016.png,knife,no
+microwave-oven_001.png,microwave oven,no
+microwave-oven_002.png,microwave oven,yes
+microwave-oven_003.png,microwave oven,no
+parking-sign_001.png,parking sign,yes
+parking-sign_002.png,parking sign,no
+parking-sign_003.png,parking sign,no
+parking-sign_004.png,parking sign,yes
+parking-sign_005.png,parking sign,no
+parking-sign_006.png,parking sign,yes
+parking-sign_007.png,parking sign,no
+parking-sign_008.png,parking sign,yes
+parking-sign_009.png,parking sign,yes
+parking-sign_010.png,parking sign,no
+parking-sign_011.png,parking sign,no
+parking-sign_012.png,parking sign,yes
+parking-sign_013.png,parking sign,no
+pedestrian-sign_001.png,pedestrian sign,yes
+pedestrian-sign_002.png,pedestrian sign,yes
+pedestrian-sign_003.png,pedestrian sign,no
+pedestrian-sign_004.png,pedestrian sign,no
+pedestrian-sign_005.png,pedestrian sign,yes
+pedestrian-sign_006.png,pedestrian sign,no
+pedestrian-sign_007.png,pedestrian sign,yes
+pedestrian-sign_008.png,pedestrian sign,yes
+pedestrian-sign_009.png,pedestrian sign,no
+pedestrian-sign_010.png,pedestrian sign,yes
+pedestrian-sign_011.png,pedestrian sign,no
+pedestrian-sign_012.png,pedestrian sign,yes
+pedestrian-sign_013.png,pedestrian sign,no
+pedestrian-sign_014.png,pedestrian sign,no
+pedestrian-sign_015.png,pedestrian sign,yes
+pedestrian-sign_016.png,pedestrian sign,no
+rules-board_001.png,rules board,yes
+rules-board_002.png,rules board,no
+rules-board_003.png,rules board,yes
+rules-board_004.png,rules board,yes
+rules-board_005.png,rules board,no
+rules-board_006.png,rules board,no
+rules-board_007.png,rules board,yes
+rules-board_008.png,rules board,no
+rules-board_009.png,rules board,yes
+rules-board_010.png,rules board,yes
+scissors_001.png,scissors,yes
+scissors_002.png,scissors,no
+scissors_003.png,scissors,no
+scissors_004.png,scissors,yes
+scissors_005.png,scissors,yes
+scissors_006.png,scissors,no
+scissors_007.png,scissors,no
+scissors_008.png,scissors,no
+scissors_009.png,scissors,yes
+scissors_010.png,scissors,no
+scissors_011.png,scissors,yes
+scissors_012.png,scissors,no
+scissors_013.png,scissors,yes
+scissors_014.png,scissors,yes
+scissors_015.png,scissors,yes
+scissors_016.png,scissors,no
+scissors_017.png,scissors,yes
+scissors_018.png,scissors,yes
+scissors_019.png,scissors,no
+stop-sign_001.png,stop sign,no
+stop-sign_002.png,stop sign,no
+stop-sign_003.png,stop sign,no
+stop-sign_004.png,stop sign,yes
+stop-sign_005.png,stop sign,yes
+stop-sign_006.png,stop sign,yes
+stop-sign_007.png,stop sign,yes
+stop-sign_008.png,stop sign,no
+stop-sign_009.png,stop sign,no
+stop-sign_010.png,stop sign,no
+stop-sign_011.png,stop sign,yes
+stop-sign_012.png,stop sign,no
+toaster_001.png,toaster,yes
+toaster_002.png,toaster,no
+toaster_003.png,toaster,no
+toaster_004.png,toaster,yes
+toaster_005.png,toaster,no
+toaster_006.png,toaster,yes
+toaster_007.png,toaster,yes
+toaster_008.png,toaster,no
+toaster_009.png,toaster,no
+toaster_010.png,toaster,yes
+toaster_011.png,toaster,no
+toaster_012.png,toaster,yes
+toaster_013.png,toaster,yes
+traffic-light_001.png,traffic light,yes
+traffic-light_002.png,traffic light,no
+traffic-light_003.png,traffic light,no
+traffic-light_004.png,traffic light,no
+traffic-light_005.png,traffic light,yes
+traffic-light_006.png,traffic light,no
+vehicle_001.png,vehicle,yes
+vehicle_002.png,vehicle,no
+vehicle_003.png,vehicle,yes
+vehicle_004.png,vehicle,yes
+vehicle_005.png,vehicle,no
+vehicle_006.png,vehicle,yes
+vehicle_007.png,vehicle,yes
+vehicle_008.png,vehicle,yes
+warning-sign_001.png,warning sign,no
+warning-sign_002.png,warning sign,no
+warning-sign_003.png,warning sign,yes
+warning-sign_004.png,warning sign,no
+warning-sign_005.png,warning sign,no
+warning-sign_006.png,warning sign,no
+warning-sign_007.png,warning sign,yes
+warning-sign_008.png,warning sign,no
+warning-sign_009.png,warning sign,yes
+warning-sign_010.png,warning sign,no
+warning-sign_011.png,warning sign,yes
+warning-sign_012.png,warning sign,no
+warning-sign_013.png,warning sign,yes
