@@ -19,7 +19,7 @@ obstruction_ar_content_mask: the binary mask of the augmented virtual content in
 
 
 #### Label: 
-obstruction_labels.csv: contains two labels for each (raw_img, ar_img) pair: (1) the key object's name; (2) obstruction status (whether the key object is obstructed by virtual content in the AR image, yes for obstructed, no for no obstruction.)
+obstruction_labels.csv: contains two labels for each (raw_img, ar_img) pair: (1) the key object's name; (2) obstruction status (whether the key object is obstructed by virtual content in the AR image, "yes" for obstructed, "no" for no obstruction.)
 
 
 ### Confusion Attack Dataset:
