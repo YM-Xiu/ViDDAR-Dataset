@@ -3,7 +3,7 @@ This is the dataset of IEEE VR 2025 submission - ViDDAR: Vision Language Model-b
 
 ## Dataset Description:
 
-The dataset mainly consists of two parts: obstruction attack dataset and confusion attack dataset. The data can be found at: 
+The dataset mainly consists of two parts: obstruction attack dataset and confusion attack dataset. The data can be found at: https://drive.google.com/drive/folders/1IkJ5jV3O6XXSyeb78IlBAa8HzuVrBF0A?usp=sharing
 
 ### Obstruction Attack Dataset:
 
