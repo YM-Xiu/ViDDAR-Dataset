@@ -7,6 +7,8 @@ The dataset mainly consists of two parts: obstruction attack dataset and confusi
 
 ### Obstruction Attack Dataset:
 
+There are 306 (raw_img, ar_img) pairs in the dataset. Each raw image contains only 1 key object. There are 23 classes of key objects in total.
+
 #### Data:
 
 obstruction_raw_img: the raw images in the dataset.
@@ -23,6 +25,8 @@ obstruction_labels.csv: contains two labels for each (raw_img, ar_img) pair: (1)
 
 
 ### Confusion Attack Dataset:
+
+There are 114 (raw_img, ar_img) pairs in the dataset. Each image pair shows a scenario where virtual content is combined with real world object. There are 10 combinations accross the dataset.
 
 #### Data: 
 
