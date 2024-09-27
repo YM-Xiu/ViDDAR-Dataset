@@ -7,14 +7,32 @@ ViDDAR (Vision Language Model-based Detrimental content Detector for Augmented R
 
 ViDDAR addresses this issue by leveraging Vision Language Models (VLMs) and other SOTA deep learning-based models to identify and evaluate two types of detrimental content in AR:
 
- * Obstruction Attacks: Virtual objects that block important real-world elements, making them difficult for users to see or interact with.
- * Confusion Attacks: Virtual objects that mislead users about the function or meaning of real-world objects, potentially causing misunderstandings.
+ * **Obstruction Attacks**: Virtual objects that block important real-world elements, making them difficult for users to see or interact with.
+ * **Confusion Attacks**: Virtual objects that mislead users about the function or meaning of real-world objects, potentially causing misunderstandings.
    
 The ViDDAR system operates using an end-edge-cloud architecture to balance performance and latency:
 
- * AR Device: Captures real-world scenes and overlays virtual content. It sends raw and augmented images to the edge server for processing.
- * Edge Server: Uses multi-modal object detection and segmentation to analyze images and detect detrimental content in real-time.
- * Cloud Server: Hosts the Vision Language Model (e.g., GPT-4o or LLaVA-next), which provides semantic understanding to identify key objects and evaluate potential obstruction or confusion.
+ * **AR Device**: Captures real-world scenes and overlays virtual content. It sends raw and augmented images to the edge server for processing.
+ * **Edge Server**: Uses multi-modal object detection and segmentation to analyze images and detect detrimental content in real-time.
+ * **Cloud Server**: Hosts the Vision Language Model (e.g., GPT-4o or LLaVA-next), which provides semantic understanding to identify key objects and evaluate potential obstruction or confusion.
+
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="image/diagram_obstruction.png" height="250" alt="System architecture of ViDDAR for obstruction detection"/></td>
+    <td align="center"><img src="image/diagram_confusion.png" height="250" alt="System architecture of ViDDAR for confusion detection"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Figure 1. System architecture of ViDDAR for obstruction detection</strong></td>
+    <td align="center"><strong>Figure 2. System architecture of ViDDAR for confusion detection</strong></td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 ## Dataset Description:
 
