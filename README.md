@@ -85,7 +85,7 @@ confusion_labels.csv: contains four labels for each (raw_img, ar_img) pair: (1) 
 
 The related materials can be found in this repo include:
 
- * [The Jupyter notebook of obstruction detection demo](Related Material/Obstruction-Detection-Proposed.ipynb);
- * The Jupyter notebook of confusion detection demo;
- * The Jupyter notebook of obstruction dataset validation user study;
- * The Jupyter notebook of confusion dataset validation user study.
+ * [The Jupyter notebook of obstruction detection demo](Related%20Material/Obstruction-Detection-Proposed.ipynb);
+ * [The Jupyter notebook of confusion detection demo](Related%20Material/Confusion-Detection-Proposed.ipynb);
+ * [The Jupyter notebook of obstruction dataset validation user study](Related%20Material/obstruction_likert_demo.ipynb);
+ * [The Jupyter notebook of confusion dataset validation user study](Related%20Material/confusion_likert_demo.ipynb).
