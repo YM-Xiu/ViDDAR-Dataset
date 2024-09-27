@@ -59,8 +59,8 @@ obstruction_ar_content_mask: the binary mask of the augmented virtual content in
 #### Label: 
 obstruction_labels.csv: contains two labels for each (raw_img, ar_img) pair: (1) the key object's name; (2) obstruction status (whether the key object is obstructed by virtual content in the AR image, "yes" for obstructed, "no" for no obstruction.)
 
-<p align="center"><img src="image/obstruction_data_sample.png" width="580"\></p>
-<p align="center"><strong>Figure 1. Overview of BiGuide design.</strong></p> 
+<p align="center"><img src="image/obstruction_data_sample.png" width="1000"\></p>
+<p align="left"><strong>Figure 3. Obstruction attack dataset samples. The first row shows raw images; the second row shows the augmented images; the third row shows the ground truth key object mask ground truth; the fourth row shows the virtual content mask. The key objects in each column are: (a): stop sign; (b): no parking sign; (c): knife; (d): ceiling fan; (e): caution sign; (f): exit sign; (g): scissors; (h): Biohazard sign. Data in columns (a-d) are labeled as "obstruction," while those in columns (e-h) are labeled as "no obstruction."</strong></p> 
 
 
 
@@ -76,3 +76,6 @@ confusion_ar_img: the AR images in the dataset.
 
 #### Label:
 confusion_labels.csv: contains four labels for each (raw_img, ar_img) pair: (1) the alignment precision (1 for good, 0 for bad); (2) style similarity (1 for high, 2 for low); (3) functional misrepresentation (1 for likely, 0 for unlikely); (4) overall confusion likelihood (1 for high, 0 for low.)
+
+<p align="center"><img src="image/confusion_data_sample.png" width="800"\></p>
+<p align="left"><strong>Figure 4. Confusion attack dataset samples. The first row shows raw images; the second row shows the augmented images. Their labels (Alignment Precision, Style Similarity, Functional Misrepresentation, Confusion) for each sample are as follows: (a): A virtual plant on the speaker may lead to confusion, making the speaker appear as a plant pot, with labels (1, 1, 1, 1); (b): The virtual exit sign placed above a door is potentially misleading, but it is not well aligned with the door, labeled as (0, 1, 1, 0); (c) A virtual coffee cup on a laptop may give the impression that the laptop is a food tray, potentially causing damage if other food is placed on it. However, the low-quality texture of the coffee makes it more noticeable, resulting in labels (1, 0, 1, 0); (d) The toy dinosaur is well aligned with the ground and the trash bin, and has a high-quality texture, but it is unlikely to misrepresent the function of the trash bin, thus labeled (1, 1, 0, 0).</strong></p> 
