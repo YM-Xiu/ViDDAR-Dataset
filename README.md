@@ -79,3 +79,13 @@ confusion_labels.csv: contains four labels for each (raw_img, ar_img) pair: (1) 
 
 <p align="center"><img src="image/confusion_data_sample.png" width="800"\></p>
 <p align="left"><strong>Figure 4. Confusion attack dataset samples. The first row shows raw images; the second row shows the augmented images. Their labels (Alignment Precision, Style Similarity, Functional Misrepresentation, Confusion) for each sample are as follows: (a): A virtual plant on the speaker may lead to confusion, making the speaker appear as a plant pot, with labels (1, 1, 1, 1); (b): The virtual exit sign placed above a door is potentially misleading, but it is not well aligned with the door, labeled as (0, 1, 1, 0); (c) A virtual coffee cup on a laptop may give the impression that the laptop is a food tray, potentially causing damage if other food is placed on it. However, the low-quality texture of the coffee makes it more noticeable, resulting in labels (1, 0, 1, 0); (d) The toy dinosaur is well aligned with the ground and the trash bin, and has a high-quality texture, but it is unlikely to misrepresent the function of the trash bin, thus labeled (1, 1, 0, 0).</strong></p> 
+
+
+## 3. Related Materials
+
+The related materials can be found in this repo include:
+
+ * The Jupyter notebook of obstruction detection demo;
+ * The Jupyter notebook of confusion detection demo;
+ * The Jupyter notebook of obstruction dataset validation user study;
+ * The Jupyter notebook of confusion dataset validation user study.
