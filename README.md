@@ -90,4 +90,4 @@ The related materials can be found in this repo include:
  * [The Jupyter notebook of obstruction dataset validation user study](Related%20Material/obstruction_likert_demo.ipynb);
  * [The Jupyter notebook of confusion dataset validation user study](Related%20Material/confusion_likert_demo.ipynb).
 
-The author information in the file has been anonymized.
+The author information in the file has been anonymized. Detailed instructions for testing ViDDAR with the dataset will be provided after the review process is complete.
