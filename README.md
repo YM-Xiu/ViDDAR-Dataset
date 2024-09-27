@@ -1,5 +1,20 @@
-# ViDDAR-Dataset
-This is the dataset of IEEE VR 2025 submission - ViDDAR: Vision Language Model-based Detrimental Content Detection for Augmented Reality.
+# ViDDAR: Vision Language Model-based Detrimental Content Detection for Augmented Reality
+This repository is for IEEE VR 2025 submission - ViDDAR: Vision Language Model-based Detrimental Content Detection for Augmented Reality. It contains download links and the introduction of our collected datasets.
+
+## 1. Overview
+
+ViDDAR (Vision Language Model-based Detrimental content Detector for Augmented Reality) is a novel system designed to detect detrimental virtual content in AR environments. Virtual content in AR often aims to enhance user experiences, but if poorly designed or placed, it can obstruct critical real-world information or cause confusion, impairing the user's ability to interpret the scene.
+
+ViDDAR addresses this issue by leveraging Vision Language Models (VLMs) and other SOTA deep learning-based models to identify and evaluate two types of detrimental content in AR:
+
+ * Obstruction Attacks: Virtual objects that block important real-world elements, making them difficult for users to see or interact with.
+ * Confusion Attacks: Virtual objects that mislead users about the function or meaning of real-world objects, potentially causing misunderstandings.
+   
+The ViDDAR system operates using an end-edge-cloud architecture to balance performance and latency:
+
+ * AR Device: Captures real-world scenes and overlays virtual content. It sends raw and augmented images to the edge server for processing.
+ * Edge Server: Uses multi-modal object detection and segmentation to analyze images and detect detrimental content in real-time.
+ * Cloud Server: Hosts the Vision Language Model (e.g., GPT-4o or LLaVA-next), which provides semantic understanding to identify key objects and evaluate potential obstruction or confusion.
 
 ## Dataset Description:
 
@@ -8,6 +23,9 @@ The dataset mainly consists of two parts: obstruction attack dataset and confusi
 ## Obstruction Attack Dataset:
 
 There are 306 (raw_img, ar_img) pairs in the dataset. Each raw image contains only 1 key object. There are 23 classes of key objects in total.
+
+
+
 
 ### Data:
 
