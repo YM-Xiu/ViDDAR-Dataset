@@ -90,4 +90,11 @@ The related materials can be found in this repo include:
  * [The Jupyter notebook of obstruction dataset validation user study](Related%20Material/obstruction_likert_demo.ipynb);
  * [The Jupyter notebook of confusion dataset validation user study](Related%20Material/confusion_likert_demo.ipynb).
 
-The author information in the file has been anonymized. Detailed instructions for testing ViDDAR with the dataset will be provided after the review process is complete.
+# Acknowledgements
+
+The authors of this repository are Yanming Xiu, Tim Scargill and Maria Gorlatova. Contact information of the authors:
+
+Yanming Xiu (yanming.xiu AT duke.edu)
+Tim Scargill (timothyjames.scargill AT duke.edu)
+Maria Gorlatova (maria.gorlatova AT duke.edu)
+This work was supported in part by NSF grants CSR-2312760, CNS-2112562 and IIS-2231975, NSF CAREER Award IIS-2046072, NSF NAIAD Award 2332744, a CISCO Research Award, a Meta Research Award, and Defense Advanced Research Projects Agency Young Faculty Award HR0011-24-1-0001. This paper has been approved for public release; distribution is unlimited. The contents of the paper do not necessarily reflect the position or the policy of the Defense Advanced Research Projects Agency. No official endorsement should be inferred.
