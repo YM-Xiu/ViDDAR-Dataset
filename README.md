@@ -1,5 +1,5 @@
-# ViDDAR: Vision Language Model-based Detrimental Content Detection for Augmented Reality
-This repository is for IEEE VR 2025 submission - ViDDAR: Vision Language Model-based Detrimental Content Detection for Augmented Reality. It contains download links and the introduction of our collected datasets.
+# ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality
+This repository is for IEEE VR 2025 submission - ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality. It contains download links and the introduction of our collected datasets.
 
 ## 1. Overview
 
