@@ -86,7 +86,7 @@ information_manipulation_labels.csv: contains four labels for each (raw_img, ar_
 The related materials can be found in this repo include:
 
  * [The Jupyter notebook of obstruction detection demo](Related%20Material/Obstruction-Detection-Proposed.ipynb);
- * [The Jupyter notebook of information manipulation detection demo](Related%20Material/Information_Manipulation-Detection-Proposed.ipynb);
+ * [The Jupyter notebook of information manipulation detection demo](Related%20Material/Information-Manipulation-Detection-Proposed.ipynb);
  * [The Jupyter notebook of obstruction dataset validation user study](Related%20Material/obstruction_likert_demo.ipynb);
  * [The Jupyter notebook of information manipulation dataset validation user study](Related%20Material/information_manipulation_likert_demo.ipynb).
 
