@@ -20,7 +20,7 @@ The ViDDAR system operates using an end-edge-cloud architecture to balance perfo
 <table align="center">
   <tr>
     <td align="center"><img src="image/diagram_obstruction.png" height="210" alt="System architecture of ViDDAR for obstruction detection"/></td>
-    <td align="center"><img src="image/diagram_confusion.png" height="210" alt="System architecture of ViDDAR for information manipulation detection"/></td>
+    <td align="center"><img src="image/diagram_information_manipulation.png" height="210" alt="System architecture of ViDDAR for information manipulation detection"/></td>
   </tr>
   <tr>
     <td align="center"><strong>Figure 1. System architecture of ViDDAR for obstruction detection</strong></td>
