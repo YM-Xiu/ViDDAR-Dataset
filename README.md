@@ -1,5 +1,5 @@
 # ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality
-This repository is for IEEE VR 2025 submission - ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality. It contains download links and the introduction of our collected datasets.
+This repository is for Paper - ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality,  which has been accepted as a special issue of IEEE Transactions on Visualization and Computer Graphics. It contains download links and the introduction of our collected datasets.
 
 ## 1. Overview
 
@@ -89,6 +89,24 @@ The related materials can be found in this repo include:
  * [The Jupyter notebook of information manipulation detection demo](Related%20Material/Information-Manipulation-Detection-Proposed.ipynb);
  * [The Jupyter notebook of obstruction dataset validation user study](Related%20Material/obstruction_likert_demo.ipynb);
  * [The Jupyter notebook of information manipulation dataset validation user study](Related%20Material/information_manipulation_likert_demo.ipynb).
+
+## Citation
+
+If you use AR-VIM dataset in an academic work, please cite: 
+
+```
+@ARTICLE{xiu2025viddar,
+  author={Xiu, Yanming and Scargill, Tim and Gorlatova, Maria},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={{ViDDAR}: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality}, 
+  year={2025},
+  volume={31},
+  number={5},
+  pages={3194-3203},
+  keywords={Visualization;Computational modeling;Augmented reality;Accuracy;User experience;Safety;Linguistics;Semantics;Roads;Object recognition;Mixed / Augmented Reality;Vision Language Models;Object Detection;Task-Detrimental Content;Scene Understanding},
+  doi={10.1109/TVCG.2025.3549147}}
+
+```
 
 # Acknowledgements
 
