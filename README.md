@@ -36,7 +36,7 @@ The ViDDAR system operates using an end-edge-cloud architecture to balance perfo
 
 ## 2. Dataset
 
-The dataset mainly consists of two parts: obstruction attack dataset and information manipulation attack dataset. The data can be found at: [https://drive.google.com/drive/folders/1IkJ5jV3O6XXSyeb78IlBAa8HzuVrBF0A?usp=sharing](https://drive.google.com/drive/folders/1aZ-2n-_DjUDqTJuQUbqMWiohOCxcp2UO?usp=sharing)
+The dataset mainly consists of two parts: obstruction attack dataset and information manipulation attack dataset. The data can be accessed through this [link](https://drive.google.com/drive/folders/1aZ-2n-_DjUDqTJuQUbqMWiohOCxcp2UO?usp=sharing)
 
 ### 2.1 Obstruction Attack Dataset:
 
