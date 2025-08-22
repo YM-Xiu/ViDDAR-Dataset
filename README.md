@@ -94,6 +94,10 @@ The related materials can be found in this repo include:
  * [The Jupyter notebook of obstruction dataset validation user study](Related%20Material/obstruction_likert_demo.ipynb);
  * [The Jupyter notebook of information manipulation dataset validation user study](Related%20Material/information_manipulation_likert_demo.ipynb).
 
+## 4. AR-VIM
+
+In our recent work, we discuss the visual information manipulation (VIM) attacks further and proposed a new video-based dataset, AR-VIM. [Github Repository](https://github.com/YM-Xiu/AR-VIM)
+
 ## Citation
 
 If you use AR-VIM dataset in an academic work, please cite: 
