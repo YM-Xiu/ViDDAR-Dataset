@@ -1,5 +1,9 @@
 # ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality
-This is the official repository of Paper: ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality. The paper is accepted to TEEE VR 2025, and also accepted as a special issue of IEEE Transactions on Visualization and Computer Graphics. It contains download links and the introduction of our collected datasets.
+This is the official repository of Paper: ViDDAR: Vision Language Model-based Task-Detrimental Content Detection for Augmented Reality. The paper is accepted to IEEE VR 2025, and also accepted as a special issue of IEEE Transactions on Visualization and Computer Graphics. It contains download links and the introduction of our collected datasets.
+
+The dataset can be found [here](https://drive.google.com/drive/folders/1aZ-2n-_DjUDqTJuQUbqMWiohOCxcp2UO?usp=drive_link).
+
+The paper can be found [here](https://www.computer.org/csdl/journal/tg/2025/05/10924575/251sSyPifN6).
 
 ## 1. Overview
 
